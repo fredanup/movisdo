@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -61,3 +62,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
+=======
+# movisdo
+Desarrollo de aplicación web para el control y monitoreo preventivo de la anemia en niños menores de 5 años y mujeres gestantes del distrito, provincia y departamento del Cusco
+>>>>>>> e50394461fa05916708e46a5451f3a04662a3b50
